@@ -1,4 +1,4 @@
-### Hello Everyone, I'm Lauris Mihailovs.👋
+### Hello Everyone, I'm Lauris Mihailovs.:wave:
 
 I'm a software developer with a passion for learning new things and improving my professional skills. 🧠👨‍💻
 
