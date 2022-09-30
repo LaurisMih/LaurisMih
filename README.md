@@ -12,8 +12,8 @@ I'm a software developer with a passion for learning new things and improving my
 
 ## 📝 Some of my recent projects:
 
-🛴 ScooterRental
-This application manages scooter rents and can calculate the price of rented scooters.
+🛴 ScooterRental <br />
+This application manages scooter rents and can calculate the price of rented scooters.<br />
 Developed using Test Driven Development principles. 
 
 
