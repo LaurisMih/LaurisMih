@@ -4,11 +4,11 @@ I'm a software developer with a passion for learning new things and improving my
 
 More information: 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]()
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lauris-mihailovs/)
 
 :toolbox: My tool box:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,ts,html,css,sqlite)](https://www.linkedin.com/in/lauris-mihailovs/)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,ts,html,css,sqlite)]()
 
 
 
