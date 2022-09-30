@@ -2,7 +2,7 @@
 
 I'm a software developer with a passion for learning new things and improving my professional skills. :brain: :man_technologist:
 
-## More information: 
+## More information 👇: 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lauris-mihailovs/)
 
@@ -12,9 +12,10 @@ I'm a software developer with a passion for learning new things and improving my
 
 ## 📝 Some of my recent projects:
 
-🛴 ScooterRental <br />
+🛴 [ScooterRental](https://github.com/LaurisMih/ScooterRental)ScooterRental <br />
 This application manages scooter rents and can calculate the price of rented scooters.<br />
 Developed using Test Driven Development principles. 
+
 
 
 
