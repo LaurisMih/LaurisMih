@@ -1,4 +1,4 @@
-# **Hello Everyone, I'm Lauris Mihailovs.** :wave:
+# **Hello Everyone, I'm Lauris Mihailov.** :wave:
 
 I'm a software developer with a passion for learning new things and improving my professional skills. :brain: :man_technologist:
 
