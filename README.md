@@ -12,8 +12,8 @@ I'm a software developer with a passion for learning new things and improving my
 
 ## 📝 Some of my recent projects:
 
-### 🎮 [ZombieChase](https://github.com/LaurisMih/ZombieChaseGame)
-2D Unity game. Rules are simple, to stay alive you need to jump over enemies
+### 🎮 [Monster Chase](https://github.com/LaurisMih/MonsterChase)
+2D Unity game. Rules are simple, to stay alive you need to jump over monsters
 
 ### 🛴 [ScooterRental](https://github.com/LaurisMih/ScooterRental) <br />
 This application manages scooter rents and can calculate the price of rented scooters.<br />
