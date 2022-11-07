@@ -15,7 +15,7 @@ I'm a software developer with a passion for learning new things and improving my
 ### 🎮 [Monster Chase](https://github.com/LaurisMih/MonsterChase)
 2D Unity game. Rules are simple, to stay alive you need to jump over monsters
 
-### 🛴 [ScooterRental](https://github.com/LaurisMih/ScooterRental) <br />
+### 🛴 [ScooterRental](https://github.com/LaurisMih/ScooterRentalApi) <br />
 This application manages scooter rents and can calculate the price of rented scooters.<br />
 Developed using Test Driven Development principles. 
 
