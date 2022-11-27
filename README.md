@@ -8,7 +8,7 @@ I'm a software developer with a passion for learning new things and improving my
 
 ## :toolbox: My tool box:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,git,ts,html,css,sqlite)]()
+[![My Skills](https://skillicons.dev/icons?i=cs,,dotnet,git,unity,ts,html,css,sqlite)]()
 
 ## 📝 Some of my recent projects:
 
