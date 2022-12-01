@@ -12,6 +12,9 @@ I'm a software developer with a passion for learning new things and improving my
 
 ## 📝 Some of my recent projects:
 
+### Search GIF
+Flutter project where you can find GIFs using GIPHY API
+
 ### 🎮 [Monster Chase](https://github.com/LaurisMih/MonsterChase)
 2D Unity game. Rules are simple, to stay alive you need to jump over monsters
 
