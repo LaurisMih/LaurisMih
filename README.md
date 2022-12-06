@@ -26,7 +26,7 @@ Developed using Test Driven Development principles.
 A WEB API application which stores flights between different airports and allows you to search them.<br />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurisM)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurisM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫Feel free to contact me: laurisroki2@gmail.com
