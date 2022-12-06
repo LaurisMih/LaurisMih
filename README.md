@@ -25,7 +25,7 @@ Developed using Test Driven Development principles.
 ### 🛫 [FlightPlanner](https://github.com/LaurisMih/FlightPlanner) <br />
 A WEB API application which stores flights between different airports and allows you to search them.<br />
 
-
+### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurisMih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
