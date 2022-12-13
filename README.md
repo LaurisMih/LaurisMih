@@ -26,7 +26,7 @@ Developed using Test Driven Development principles.
 A WEB API application which stores flights between different airports and allows you to search them.<br />
 
 ### 🌍 [Countries API](https://github.com/LaurisMih/CountriesAPI) <br />
-Prooject where you can find information about any EU country or sort contries by population and population density.<br />
+Project where you can find information about any EU country or sort contries by population and population density.<br />
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurisMih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
