@@ -27,9 +27,6 @@ A WEB API application which stores flights between different airports and allows
 
 ### 🌍 [Countries API](https://github.com/LaurisMih/CountriesAPI) <br />
 Project where you can find information about any EU country or sort contries by population and population density.<br />
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurisMih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫Feel free to contact me: laurisroki2@gmail.com
